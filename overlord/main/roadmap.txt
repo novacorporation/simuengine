@@ -1,0 +1,39 @@
+Experimental 0.0.0:
+- Installer
+
+Experimental 0.0.1a:
+- 50 by 50 grey block platform
+- Place down 1 by 1 light grey, blue, yellow, green and red blocks
+
+Experimental 0.0.1b:
+- 2 by 2 blocks
+- Brown and rainbow colours
+
+Experimental 0.0.1c:
+- 1 by 1 slope blocks
+- Black, white and multicoloured blocks
+- RGB selector
+
+Experimental 0.0.1d:
+- Made the platform 3 more parts deeper
+- Platforms get darker the deeper it goes
+
+Experimental 0.0.1e:
+- Void spawns you back in the middle of the platform
+
+Experimental 0.0.2a:
+- Daylight Cycle (sun and moon)
+ - 30 minutes for each day
+
+Experimental 0.0.2b:
+- Custom skyblock, upload using url or importing by clicking Shift + Y
+
+Experiemntal 0.0.3:
+- Jump with space every 2 seconds
+- Shift to run twice as fast
+
+Experimental 0.0.4a:
+- Place blocks on air space with Shift + Left cLICK
+
+Experiemtnal 0.0.4
+- Circular parts, 1 by 1 and 2 by 2
