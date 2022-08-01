@@ -1,0 +1,10 @@
+tools:
+rotation
+movement
+scaling
+-------------------------------------------------
+services:
+spawning
+life creation
+auto ratio scaling
+planetart 
