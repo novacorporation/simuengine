@@ -69,3 +69,43 @@ Experimental 0.1.2a:
 
 Experimental 0.1.2b:
 - Local netowrk play
+
+Experiemntal 0.1.3:
+- In game chat and Voice Chat
+- Upload builds using URLs and code
+- Allow for ingame coding with multiple coding languages
+
+Experimental 0.2.0:
+- Command console with many commands
+ - /kick (kicks someone from a world)
+ - /ban (bans someone from a world for a certain amount of time)
+ - /say (broadcasts a message to all players)
+ - /simulation (gives you the ID of the simulation in which the world is located)
+ - /new-world (makes a new world within your simulation)
+ - /tp (tp to a player or world)
+- Teleporter (teleports to different locations or worlds)
+- World list (join the simulation hub for your simulation and see the list of worlds)
+
+Experimental 0.3.0:
+- Computer monitor, keyboard and mouse
+ - Runs the command console in game
+
+Experimental 1.0.0:
+- Major monitor updates
+ - Computer monitor can now play youtube videos with URL on loop
+ - Monitor supports playlists
+ - Display images on computer monitors
+
+Experimental 2.0.0:
+- Infinite worlds with different height values
+- Yellow avatar
+
+Experimental 2.1.0:
+- Avatar special effects
+ - Red spawns fire that damages player
+ - Blue spawns in water that flows for 10 1 by 1 parts
+ - Green can spawn in trees and plants
+ - Yellow can change the time of day and date
+ - Local Area Network simulation owners can disable effects
+
+Experimental 2.2.0:
