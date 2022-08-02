@@ -31,9 +31,41 @@ Experimental 0.0.2b:
 Experiemntal 0.0.3:
 - Jump with space every 2 seconds
 - Shift to run twice as fast
+- ESC to go to the menu
+ - Save world to local disk or cloud storage
+ - Quit game
+ - Settings
+  - Resolution changing
+  - Skybox quality
 
 Experimental 0.0.4a:
 - Place blocks on air space with Shift + Left cLICK
 
-Experiemtnal 0.0.4
+Experiemtnal 0.0.4b:
 - Circular parts, 1 by 1 and 2 by 2
+- Custom size brick up to 10 by 10
+
+Experimental 0.0.4c:
+- Custom brick shapes (multiple nodes on a brick to extend, move, delete and add)
+
+Experimental 0.0.5:
+- 3 different avatars, red, blue and green
+
+Experimental 0.1.0:
+- Spawn in other avatars
+- Autosaving per 10 minutes (changeable in settings)
+- 10 skybox presets
+- In-game clock and time and date settings
+- Infinite size platform
+- Main menu and account sign in
+- 3 new entities: flying circle, hostile flying circle and sponge man
+- 6 new items: table, sword, chair, cup, notepad (editable text), physical clock, brick
+
+Experimental 0.1.1:
+- Upload image to parts by pressing I
+
+Experimental 0.1.2a:
+- World merging (put multiple worlds together)
+
+Experimental 0.1.2b:
+- Local netowrk play
