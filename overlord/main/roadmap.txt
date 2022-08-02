@@ -150,4 +150,5 @@ Branch B route: continue as a exploration game with building aspects and others.
 Branch C route: Operation Overlord.
 
 Alpha A0.0.1:
-- 
+- Naturally spawning lakes and oceans
+- Surface is now made up of grass
