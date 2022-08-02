@@ -109,3 +109,37 @@ Experimental 2.1.0:
  - Local Area Network simulation owners can disable effects
 
 Experimental 2.2.0:
+- LAN permissions and admin
+ - Owner permissions: can do all commands, sets server operators
+ - Operators: can restart, stop and start LAN servers + most commands
+ - Moderators: kick, warn and ban people, skybox
+ - Contributor: add code (most building permissions) and /say
+ - Trusted member: building and uploading images, videos
+ - Member: building and chat
+ - None: exploration and chat
+ - Banned: no access (may be given exploration by operators and owner)
+- New commands
+ - /summon [item]
+ - /rank [player-name] [rank]
+ - /sykbox [west] [east] [north] [south] [above] [below] [sun] [moon]
+ - /image-broadcast [url]
+ - /video-broadcast [url]
+ - /stop or /shutdown or /server-kill
+ - /kill [player]
+ - /reset [player]
+ - /disable-effects [player]
+ - /worldborder [how far x] [how far z]
+ - /buildlimit [how far y positive] [how far y negative]
+ - /save [world-name]
+
+Experimental 2.3.0: (final update)
+- Milk
+ - Milk dimension
+  - Generates every possible color liquid with many different effects
+  - Effects: speed, jump, vision, time, image, video etc.
+  - Milk bucket NPC and hostile milk bucket NPC
+  - Cheese
+  - Solidified cubic meter of milk
+ - Milk bottle
+ - Milk truck
+ - Milk man
