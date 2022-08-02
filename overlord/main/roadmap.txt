@@ -132,7 +132,7 @@ Experimental 2.2.0:
  - /buildlimit [how far y positive] [how far y negative]
  - /save [world-name]
 
-Experimental 2.3.0: (final update)
+Experimental 2.3.0: (final update for experimental)
 - Milk
  - Milk dimension
   - Generates every possible color liquid with many different effects
@@ -143,3 +143,11 @@ Experimental 2.3.0: (final update)
  - Milk bottle
  - Milk truck
  - Milk man
+ - Milk helicopter
+
+Branch A route: continue on a infinite sandbox style game.
+Branch B route: continue as a exploration game with building aspects and others.
+Branch C route: Operation Overlord.
+
+Alpha A0.0.1:
+- 
