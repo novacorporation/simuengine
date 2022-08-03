@@ -157,3 +157,32 @@ Alpha 1.0.0:
 - Shovel to dig up the ground
 - Caves with many new items and structures
 - Archaeology with fossils and artifacts
+ - Milk Artifact: gives access to the milk dimension when used
+ - Giant's Fossil: a fossil of a giant human being
+ - Giant's Fossil 2: a fossil of a half-degraded giant human being
+ - Gold Artifact: a chuck of gold stuck in the ground
+ - Gold Artifact 2: a gold shard stuck in the ground
+ - Gold Artifact Monolith: a huge gold skyscraper chuck located underground
+ - Strange Fossil: a strange fossil emitting green light
+ - UFO Artifact: a strange disk with futurisitc technology, probably best to leave
+
+Alpha 1.1.0:
+- Weather
+ - Rain, snow and thunderstorms
+- Naturally spawning lava lakes in caves
+- Deserts and forests biomes
+- Server farm
+ - Host a world in a simulation in a world's server in a simulation on your device or server
+ - Command console
+  - /start: starts the server farm
+  - /stop: stops the server farm
+  - /colour: changes the colour of the server farm
+  - /give: gives a player an item
+  - /list: gives a list of items and others
+  - /explorer: open up the server farm explorer
+  - /connect: connect up to 30 ingame server racks to your server farm or any external devices
+  - /display: a list of displays in which to broadcast things
+  - /external: connect external apps, services, apis and others to your server farms
+
+Alpha 1.2.0:
+- 
