@@ -169,6 +169,7 @@ Alpha 1.0.0:
 Alpha 1.1.0:
 - Weather
  - Rain, snow and thunderstorms
+ - Sandstorm disaster and 0.3% chance of tornadoes every day/night cycle
 - Naturally spawning lava lakes in caves
 - Deserts and forests biomes
 - Server farm
