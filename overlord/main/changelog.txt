@@ -195,3 +195,16 @@ Alpha 1.2.0:
   - No need to send electric signals in-game with wifi block
 
 Alpha 1.2.1:
+- City map and map menu
+
+Alpha 1.3.0:
+- Community maps support
+ - Village, warehouse and farm map
+- Asset marketplace initiated
+
+Alpha 1.4.0:
+- IDE block and setting
+ - get an ide block and place a route on top, on the sides place a command console
+ - in the console run ?ide initiate, ?ide setup and #api find domain ide or !settings present simulation.features.extras.ide.initiate.midgame = true
+ - once done, leave the console and run the command in chat: /simulation restart
+ - then run ?ide activate and wait for it to load, to end the ide session run @terminate subsim
