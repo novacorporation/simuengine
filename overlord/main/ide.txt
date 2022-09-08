@@ -1,0 +1,29 @@
+Assets Marketplace:
+- split into: 2D, 3D, Dimension Anchor, AR, VR
+- 3D Split into: models and meshes, scripts, audio, images, videos, plugins and extensions, miscellaneous
+- 2D Split into: drawings and textures, 2d videos, sprites, plugins and extensions, miscellaneous
+- Dimension anchor split into: 1D - Line assets, 1D - Line Extensions, 4D - Assets, 4D - Extensions
+- AR Split into: holograms, AR plugins and extensions, AR assets
+- VR Split into: VR assets, VR plugins and extensions
+
+File
+----------
+ New File
+  New 3D
+  New 2D
+  New DA
+  New AR
+  New VR
+  New Empty
+ ----------
+ New Window
+ Terminate window
+ Activate Multi-Window
+ ----------
+ Save as...
+ Save...
+ Copy...
+ Version...
+ ----------
+ IDE Version
+ IDE Update
