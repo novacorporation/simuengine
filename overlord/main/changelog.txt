@@ -186,4 +186,12 @@ Alpha 1.1.0:
   - /external: connect external apps, services, apis and others to your server farms
 
 Alpha 1.2.0:
-- 
+- Wifi Block: connect to an ip address
+ - Send a ping to the IP address and get a response back in game by connecting it to a receiver, output device or command console
+ - Enable network mode and connect to a domain in-game
+  - Connect to a output device or monitor to visualize the website
+  - Connect to a server farm with a monitor to see data
+ - Enable wireless electric
+  - No need to send electric signals in-game with wifi block
+
+Alpha 1.2.1:
