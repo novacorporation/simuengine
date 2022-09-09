@@ -27,3 +27,4 @@ File
  ----------
  IDE Version
  IDE Update
+ @Terminate Run
