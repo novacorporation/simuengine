@@ -208,3 +208,4 @@ Alpha 1.4.0:
  - in the console run ?ide initiate, ?ide setup and #api find domain ide or !settings present simulation.features.extras.ide.initiate.midgame = true
  - once done, leave the console and run the command in chat: /simulation restart
  - then run ?ide activate and wait for it to load, to end the ide session run @terminate subsim
+- 
